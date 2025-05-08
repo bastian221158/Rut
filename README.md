@@ -65,11 +65,10 @@ GestorCredenciales.getInstancia().setPlantilla(plantilla);
 
 ## 📊 Diagrama de Clases (UML)
 
-![Diagrama de Clases UML]
-(https://i.ibb.co/6c7Xw5Fg/image.png)
+![Diagrama de Clases UML](https://i.ibb.co/6c7Xw5Fg/image.png)
 
 ---
 
 ## 📸 Captura del sistema funcionando
 
-(https://i.ibb.co/DDkBsJsG/image.png) (https://i.ibb.co/cSBgdPnv/image.png)
+![Prueba 1](https://i.ibb.co/DDkBsJsG/image.png) ![Prueba 2](https://i.ibb.co/cSBgdPnv/image.png)
