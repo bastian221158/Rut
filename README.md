@@ -9,7 +9,7 @@
 
 ## 🎯 Objetivo del Proyecto
 
-Este sistema permite emitir credenciales personalizadas para un evento, a partir de una plantilla clonable. Se aplican los patrones de diseño **Prototype** (para clonar credenciales) y **Singleton** (para configuración global del evento). (redactar el suyo)
+Sistema de emisión de credenciales personalizadas para eventos, utilizando los patrones de diseño Prototype y Singleton. Permite generar credenciales con nombre, cargo y RUT desde una plantilla base mediante una interfaz por consola.
 
 ---
 
